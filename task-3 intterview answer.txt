@@ -1,0 +1,19 @@
+1. git is tool where we write  codes and push to their remote storage GitHub and we can pull also from remote storage. 
+
+2  MERGE is used for two different file or folder convert to one file is called merge and REBASE is used for some changes or
+      modify in file or codes is called rebase.
+
+3. Pull request is a request from GitHub to git for pull the files etc. in other branch and same branch before push.
+
+4. Using GitHub to Git by pull request.
+
+5. Git tags is for identifying purpose easy to identify.
+
+6. Git workflow is nothing but is strategy of how git is work like created branch, shared and review, merge etc.
+
+7. Git Stash is temporarly save area it stored file which you are not use now but still want save anywhere is git Stash.
+
+8. .gitignore is use for if you want to  ignore some commit msg or file this is gitignore.
+
+
+  
